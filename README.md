@@ -1,3 +1,3 @@
-Symfony Music
+Symfony Movies
 ========================
 
